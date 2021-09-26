@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "node_modules/.bin/webpack"
+  },
   "dependencies": {
     "firebase": "^9.1.0"
   },
